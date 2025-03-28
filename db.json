@@ -1,0 +1,54 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Timeless",
+      "artist": "The Weekend",
+      "votes": 9
+    },
+    {
+      "id": "2",
+      "title": "Turks & Caicos",
+      "artist": "Nemzzz",
+      "votes": 5
+    },
+    {
+      "id": "3",
+      "title": "Charge Dem Hoes A Fee",
+      "artist": "Playboi Carti",
+      "votes": 16
+    },
+    {
+      "id": "4",
+      "title": "Luther",
+      "artist": "Kendrick Lamar",
+      "votes": 7
+    }
+  ],
+  "albums": [
+    {
+      "id": "1",
+      "title": "I AM MUSIC",
+      "artist": "Playboi Carti",
+      "votes": 5
+    },
+    {
+      "id": "2",
+      "title": "Rent's Due",
+      "artist": "Nemzzz",
+      "votes": 6
+    },
+    {
+      "id": "3",
+      "title": "The Big 6",
+      "artist": "NSG",
+      "votes": 3
+    },
+    {
+      "id": "4",
+      "title": "Hurry Up Tomorrow",
+      "artist": "The Weekend",
+      "votes": 4
+    }
+  ]
+}
