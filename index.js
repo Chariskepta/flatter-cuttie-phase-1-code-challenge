@@ -113,5 +113,4 @@ function showMessage(text, type) {
     messageDiv.className = type;
 }
 
-
 window.voteFor = voteFor;

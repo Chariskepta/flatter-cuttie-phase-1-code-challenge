@@ -24,12 +24,6 @@ body::before {
     animation: pulse 15s infinite alternate;
 }
 
-@keyframes pulse {
-    0% { transform: scale(1); }
-    100% { transform: scale(1.05); }
-}
-
-
 .music-note {
     position: fixed;
     font-size: 24px;
@@ -38,21 +32,6 @@ body::before {
     animation: floatNote 10s linear infinite;
 }
 
-@keyframes floatNote {
-    0% {
-        transform: translateY(100vh) rotate(0deg);
-        opacity: 0;
-    }
-    50% {
-        opacity: 0.6;
-    }
-    100% {
-        transform: translateY(-100px) rotate(360deg);
-        opacity: 0;
-    }
-}
-
-
 h1 {
     text-align: center;
     color: white;
@@ -60,6 +39,7 @@ h1 {
     margin-bottom: 30px;
     font-size: 2.5rem;
 }
+
 
 .category {
     background: rgba(255, 255, 255, 0.9);
